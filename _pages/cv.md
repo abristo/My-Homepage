@@ -58,7 +58,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Reviewer, LCFM 2025 (invitation accepted December 3, 2025).
