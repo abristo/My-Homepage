@@ -12,3 +12,5 @@ bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
 codeurl: 'https://github.com/abristo/ipsum-lorem-all-you-need'
 citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>COML 2025 - Conference on Machine Learning</i>. Accepted; oral presentation (top ~1%).'
 ---
+
+[Open-sourced code]({{ page.codeurl }})
